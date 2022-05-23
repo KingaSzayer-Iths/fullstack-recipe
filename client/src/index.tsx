@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import Recipecard from './components/recipecard'
 import Home from './components/home'
 import Category from './components/category'
 import Recipe from './components/recipe'

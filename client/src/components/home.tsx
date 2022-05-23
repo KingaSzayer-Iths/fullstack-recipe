@@ -1,7 +1,6 @@
 import React from 'react'
 import Search from './search'
 import { useEffect, useState } from 'react';
-import Recipe from './recipe'
 import { Link } from "react-router-dom"
 import RecipeCard from './recipecard'
 

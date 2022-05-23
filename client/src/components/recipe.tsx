@@ -2,8 +2,6 @@
 import { useParams } from "react-router-dom"
 import { useEffect, useState } from 'react'
 import Rating from './rating'
-import { receiveMessageOnPort } from "worker_threads"
-import { number } from "yargs"
 
 const Recipe = () => {
 

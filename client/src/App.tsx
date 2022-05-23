@@ -2,7 +2,6 @@ import React from 'react'
 import './App.css';
 import { Link } from "react-router-dom"
 import Mainheader from './components/mainheader'
-import Recipecard from './components/recipecard'
 
 import { Outlet } from "react-router-dom"
 

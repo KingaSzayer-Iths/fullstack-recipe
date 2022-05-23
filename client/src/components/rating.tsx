@@ -1,11 +1,10 @@
 
-import { useParams } from "react-router-dom"
 
 const Rating = ({rating,recipe}:any) => {
 
     const rate = async (rate : number) => {
 
-        const res = await fetch(`http://localhost:4000/recipes/${recipe._id}/ratings`, {
+        await fetch(`http://localhost:4000/recipes/${recipe._id}/ratings`, {
             method: 'post',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify([rate])
