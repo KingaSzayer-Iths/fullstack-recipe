@@ -14,7 +14,7 @@ const Recipe = () => {
   
         const openRecipe = async () => {
         
-            const res = await fetch(`http://localhost:4000/recipes/${params.recipeId}`)
+            const res = await fetch(`${process.env.REACT_APP_API_BASE_URL}/recipes/${params.recipeId}`)
             const recipe = await res.json()
 
             setRecipe(recipe)

@@ -11,10 +11,13 @@ const App = () => {
   
   const [categories, setCategories] = useState<any>([]);
 
+  console.log(process.env.REACT_APP_API_BASE_URL);
+  
+
   useEffect(() => {
 
     const loadCategories = async () => {
-      const res = await fetch(`http://localhost:4000/categories`);
+      const res = await fetch(`${process.env.REACT_APP_API_BASE_URL}/categories`);
       const categories = await res.json();
       
       setCategories(categories);

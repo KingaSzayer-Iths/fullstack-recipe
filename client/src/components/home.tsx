@@ -10,7 +10,7 @@ const Home = () => {
     useEffect(() => {
   
       const loadRecipes = async () => {
-        const res = await fetch(`http://localhost:4000/recipes`)
+        const res = await fetch(`${process.env.REACT_APP_API_BASE_URL}/recipes`)
         const recipes = await res.json()
         console.log(recipes);
         setRecipes(recipes);
