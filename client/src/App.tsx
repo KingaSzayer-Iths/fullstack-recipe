@@ -1,26 +1,46 @@
-import React from 'react';
-import logo from './logo.svg';
+import React from 'react'
 import './App.css';
+import { Link } from "react-router-dom"
+import Mainheader from './components/mainheader'
+import Recipecard from './components/recipecard'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+import { Outlet } from "react-router-dom"
+
+import { useEffect, useState } from 'react';
+
+const App = () => {
+  
+  const [categories, setCategories] = useState<any>([]);
+
+  useEffect(() => {
+
+    const loadCategories = async () => {
+      const res = await fetch(`http://localhost:4000/categories`);
+      const categories = await res.json();
+      
+      setCategories(categories);
+    }
+
+    loadCategories();
+  }, [])
+
+return (<>
+  <Mainheader/>
+  <div className='main'>
+    <nav className='categories'>
+      <h2>Kategori</h2>
+      {categories.map((category: any) =>
+        <React.Fragment key={category}>
+          <Link to={`/categories/${category}/recipes`}>{category}</Link> 
+        </React.Fragment>
+      )}
+    </nav>
+    <div className="content">
+      <Outlet />
     </div>
-  );
+    
+  </div>
+</>)
 }
 
 export default App;

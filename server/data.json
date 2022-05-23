@@ -1,0 +1,1573 @@
+[
+    {
+        "title": "Chokladpudding",
+        "description": "Härlig, vispad, luftigt choklad!",
+        "timeInMins": 15,
+        "ingredients": [
+            {
+                "ingredient": "Chokladpulver",
+                "amount": 4,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "Mjölk",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "Grädde",
+                "amount": 1,
+                "unit": "dl" 
+            }
+        ], 
+        "category": [
+            "Choklad",
+            "Grädde",
+            "Bär"
+        ],
+        "instructions": [
+            "Häll upp kall mjölk i en bunke", 
+            "Vispa i chokladpulver",
+            "Häll upp i serveringsskål",
+            "Låt stå i kyl i 15 minuter",
+            "Vispa grädde"
+        ]
+    },
+    {
+        "title": "Sernik - polsk cheesecake till Julfika",
+        "description": "Ingen jul utan sernik polsk cheesecake. Polsk cheesecake kräver speciellt färskost typ kvarg som har tydlig sur smak. ",
+        "timeInMins": 60,
+        "ingredients": [
+            {
+                "ingredient": "digestive",
+                "amount": 200,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 60,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "kvarg",
+                "amount": 1,
+                "unit": "kg" 
+            },
+            {
+                "ingredient": "grädde",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "majsstärkelse",
+                "amount": 2,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "socker",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "vaniljpulver",
+                "amount": 1,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "kärsbär",
+                "amount": 4,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "mjölkchoklad",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "mörkchoklad",
+                "amount": 100,
+                "unit": "g" 
+            },{
+                "ingredient": "ljussirap",
+                "amount": 1,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "hallonströssel",
+                "amount": 2,
+                "unit": "msk" 
+            }
+        ], 
+        "category": [
+            "Ost",
+            "Grädde",
+            "Bär"
+        ],
+        "instructions": [
+            "Sätt ugnen på 160ºC. Smula digestive och blanda med smör.",
+            "Klä bakformen med bakpapper och fördela kaksmulor jämt på botten.", 
+            "Ställ i kylen under tiden du bearbetar ostmassa.",
+            "Först mixa kvarg med socker.",
+            "Nästa steg är att vispa in lätt ett ägg  i taget.",
+            "Till sist tillsätt majsstärkelse och vispa kort.",
+            "Blanda i ostmeten hackad choklad och tinade körsbär.",
+            "Häll ostmassa på den kalla botten och baka sernik i cirka 90 minuter.",
+            "När den är klar låt den vila i ugnen med öppen dörr i cirka 20 minuter.",
+            "Sedan ta ut sernik och låt den svalna helt och hållet.",
+            "Förbered en vattenbad för ganache.",
+            "Ställ en skål över kastrullen och fyll med hackad mörkchoklad, ljussirap, 4 msk smör och vispgrädde.",
+            "Blanda allt tills chokladen är helt smält.",
+            "Bredd ganaché på sernik och strö på hallonströssel.",
+            "Dela i 24 bitar. Bäst att förvara sernik i kylen."
+        ]
+    },
+    {
+        "title": "Sernik - Cheesecake med tranbärsmousse",
+        "description": "Cheesecake är ett måste på polska julbord. Man bakar alltid cheesecake eller sernik som den heter på polska till stora helger. Denna underbara juliga cheesecake är med tranbärsmousse. Tranbärsmousse bidrar med en frisk smak och är så passande i kakan. Sernik är krämig och försvinnande god. Man kan baka den på både på kvarg och färskost, gärna med högre fetthalt.",
+        "timeInMins": 60,
+        "ingredients": [
+            {
+                "ingredient": "vetemjöl",
+                "amount": 175,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 150,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "socker",
+                "amount": 4,
+                "unit": "dl"
+            },
+            {
+                "ingredient": "kakao",
+                "amount": 25,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "kvarg",
+                "amount": 500,
+                "unit": "g"
+            },
+            {
+                "ingredient": "philadelphia",
+                "amount": 400,
+                "unit": "g"
+            },
+            {
+                "ingredient": "vaniljpulver",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "potatismjöl",
+                "amount": 2,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 5,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "tranbär",
+                "amount": 250,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "lime",
+                "amount": 1,
+                "unit": "st" 
+            },{
+                "ingredient": "vispgrädde",
+                "amount": 4,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "gelatinblad",
+                "amount": 4,
+                "unit": "st" 
+            }
+        ], 
+        "category": [
+            "Ost",
+            "Grädde",
+            "Bär"
+        ],
+        "instructions": [
+            "Sätt ugnen på 150ºC och placera en panna med vatten. Börja med mördeg.",
+            "Smula smör tillsammans med mjöl, kakao och socker.", 
+            "Klä bakformen med bakpapper, både botten och sidor och tryck mördegen på botten.",
+            "Vispa kort alla ingredienser till ostsmeten (kvarg, philadelphia, 2,5 dl socker, vaniljpulver, potatismjöl och ägg).",
+            "Häll smeten över mördegsbotten och ställ formen i ett vattenbad.",
+            "Baka cheesecake i cirka 45 minuter.",
+            "Stäng av ugnen, öppna halvvägs och låt cheesecake svalna tills vatten i panna är kallt.",
+            "Ta ut cheesecake från ugnen och låt svalna vidare.",
+            "Blötlägg gelatin i 30 minuter.",
+            "Koka tranbär med 1,5 dl socker och juice utav 1 lime, mixa och passera till en slät puré.",
+            "Krama vatten ur gelatinblad och lägg de i tranbären. Låt svalna.",
+            "Under tiden vispa grädde och blanda med tranbärspuré.",
+            "Häll tranbärsmousse över cheesecake och jämna ut ytan. Ställ i kylen i cirka 2 timmar.",
+            "Dekorera med tranbär (12 bitar)."
+        ]
+    },
+    {
+        "title": "Polska vetebullar fyllda med vallmo",
+        "description": "Söta vetebullar fyllda med vallmo. Vallmobullar är mycket populära i Polen, rekommenderar att testa ner ni har väggarna förbi. Annars varför inte baka de själv!",
+        "timeInMins": 60,
+        "ingredients": [
+            {
+                "ingredient": "mjölk",
+                "amount": 5,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "jäst",
+                "amount": 50,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "socker",
+                "amount": 250,
+                "unit": "g"
+            },
+            {
+                "ingredient": "vaniljextrakt",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 250,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "salt",
+                "amount": 1,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 2,
+                "unit": "st"
+            },
+            {
+                "ingredient": "vetemjöl",
+                "amount": 950,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vallmofrö",
+                "amount": 300,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "honung",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "nötter",
+                "amount": 50,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "russin",
+                "amount": 50,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "mandelspån",
+                "amount": 50,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 4,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "citronsaft",
+                "amount": 2,
+                "unit": "msk" 
+            }
+        ], 
+        "category": [
+            "Bär",
+            "Nötter",
+            "Vallmo"
+        ],
+        "instructions": [
+            "Lös den färska jästen i mjölken i en bunke.",
+            "Tillsätt 180 g socker och rör tills även socker löser sig.", 
+            "Häll i mjöl, vaniljextrakt, salt och 1 ägg och börja knåda deg.",
+            "När degen är homogen tillsätt 180 g smör i bitar och fortsätt knåda.",
+            "Knåda 15 minuter sammanlagd och sedan täck degen med följe och låt jäsa i 40 minuter.",
+            "Vik degen några gången och låt vila i 10 minuter.",
+            "Dela och kavla till två rektangel 1cm tjocka.",
+            "Blanda vallmofyllning (70 g smör, vallmofrö, honung, 70 g socker, nötter, russin, mandelspån).",
+            "Bredd vallmofyllningen på degen, rulla, dela i tjocka bitar och lägg på bakplåt beklädd med bakpapper.",
+            "Pressa med finger i mitten av varje bulle, pensla med 1 ägg och låt jäsa i 30 minuter.",
+            "Baka i varmluftsugn i 180ºC i 15 minuter. Ta ut från ugnen och låt svalna.",
+            "Vispa florsocker med citronsaft och pensla bullarna (ca 20 vetebullar)."
+        ]
+    },
+    {
+        "title": "Choklad babka – polsk mjukkaka",
+        "description": "Choklad babka är polsk mjukkaka som man brukar kalla på engelska bundt cake. Babka bakar man i en rund bakform med ett håll i mitten.",
+        "timeInMins": 45,
+        "ingredients": [
+            {
+                "ingredient": "socker",
+                "amount": 200,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 170,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "yoghurt",
+                "amount": 2,
+                "unit": "dl"
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 2,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "kakao",
+                "amount": 50,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vetemjöl",
+                "amount": 250,
+                "unit": "g"
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 1,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "bikarbonat",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "mörkchoklad",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "baksirap",
+                "amount": 2,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "vispgrädde",
+                "amount": 1,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "strössel",
+                "amount": 1,
+                "unit": "msk" 
+            }
+        ], 
+        "category": [
+            "Choklad",
+            "Grädde"
+        ],
+        "instructions": [
+            "Sätt ugnen på 160ºC varmluft. Utan varmluft 175ºC.Lös",
+            "Mixa 150 g smör med socker pösigt.", 
+            "Lägg i ett ägg i taget men mixa hela tiden.",
+            "Blanda i smeten siktat mjöl, kakao, bakpulver och bikarbonat tillsammans med yoghurt.",
+            "Gör det i tre omgångar.",
+            "Ta först en del torra ingredienser, rör i smeten med slickepotten och sedan lite yoghurt.",
+            "Fortsätt tills alla ingredienser är fint blandade.",
+            "Smöra bakformen och pudra med mjöl.",
+            "Häll i smeten som borde rymma ¾ av formen.",
+            "Sätt kakan i ugnen. Baka cirka 50 minuter eller tills bakpinne är torr.",
+            "Ta ut från ugnen och låt den svalna.",
+            "Smält samtliga ingredienser till ganaché i ett vattenbad (mörkchoklad, 4 msk smör, baksirap, vispgrädde).",
+            "Låt stelna lite. Ta ut babka ur formen och placera på en fat upp och ner.",
+            "Bredd på ganaché och strö på strössel."
+        ]
+    },
+    {
+        "title": "Kremówka - Napoleonbakelse",
+        "description": "I Polen kallas bakelsen kremówka även napoleonka. En smördegsbakelse där flera plattor varvats med tjock grädde och täckts med florsocker.",
+        "timeInMins": 60,
+        "ingredients": [
+            {
+                "ingredient": "vetemjöl",
+                "amount": 500,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "salt",
+                "amount": 10,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 500,
+                "unit": "g"
+            },
+            {
+                "ingredient": "vatten",
+                "amount": 250,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "äggula",
+                "amount": 4,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "citron",
+                "amount": 10,
+                "unit": "g"
+            },
+            {
+                "ingredient": "grädde",
+                "amount": 1000,
+                "unit": "g"
+            },
+            {
+                "ingredient": "äppelmos",
+                "amount": 150,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "hallonsylt",
+                "amount": 150,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 300,
+                "unit": "g" 
+            }
+        ], 
+        "category": [
+            "Choklad",
+            "Grädde"
+        ],
+        "instructions": [
+            "Smördeg. Blanda vetemjöl, salt och smör så att det börjar att gå ihop.",
+            "Tillsätt 200 g vatten, 1 ägggula och citronjuice.", 
+            "Arbeta ihop degen så att den precis går ihop, lite smörklumpar är bara bra.",
+            "Plasta degen och låt vila i kyl cirka 10-20 minuter.",
+            "Kavla ut degen och vik den i 2 st treslag.",
+            "Plasta och låt vila 10-20 minuter.",
+            "Kavla ut degen och vik den i 2 st treslag.",
+            "Låt vila 10-20 minuter.",
+            "Kavla ut degen ca 3 mm tunn, dela till 2 st plåtar.",
+            "Låt vila i 10-20 min, nagga bottnarna och grädda i 225 grader tills de är gyllenbruna. Låt svalna.",
+            "Vaniljkräm – koka upp mjölk, delade vaniljstänger och 50 gram av sockret. Tag av värmen och låt stå 5-10 minuter.",
+            "Tag upp vaniljstängerna och skrapa ur alla frön, skölj av stängerna i kallt vatten och lägg på papper för att torkas.",
+            "Vispa 3 äggulor, resten av strösockret och maizena luftigt, vänd ner i vaniljmjölken.",
+            "Koka upp under omrörning, låt koka i ett par minuter.",
+            "Tag bort ifrån värmen, blanda i smöret och sila genom en finmaskig sil – kyl.",
+            "Montering – dela bottnarna i 3 lika stora delar.",
+            "Stryk äppelmos på första botten och spritsa ut vaniljkräm ovanpå.",
+            "Lägg på nästa lager botten, stryk ut grädde.",
+            "Lägg den sista botten ovanpå med undersidan upp.",
+            "Stryk tunt med hallonsylt.",
+            "Blanda florsocker med 50 g ljummet vatten och glasera ovanpå hallonsylten.",
+            "Skär i portionsbitar."
+        ]
+    },
+    {
+        "title": "Faworki(chrusciki) - klenäter",
+        "description": "Faworki - klenäter, de spröda kakorna som man moffar på fettisdagen i Polen. Receptet för alla Er som vill äta något riktigt, riktigt gott...",
+        "timeInMins": 30,
+        "ingredients": [
+            {
+                "ingredient": "vetemjöl",
+                "amount": 6,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "smetana",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "vispgrädde",
+                "amount": 2,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "äggulor",
+                "amount": 5,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "brännvin",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "salt",
+                "amount": 1,
+                "unit": "krm"
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 3,
+                "unit": "msk"
+            }
+        ], 
+        "category": [
+            "Grädde"
+        ],
+        "instructions": [
+            "Blanda ihop vetemjöl, smetana, vispgrädde, äggulor, brännvin och salt till en fin deg.",
+            "Det tar några minuter. Det är viktigt att inte ha något mjöl på bakbordet.", 
+            "Det mjölet som fastnar på degen kommer senare att brännas vid under friteringen.",
+            "Kavla degen tunt, tunt, tunt. Ju tunnare deg desto sprödare kakor.as",
+            "Sedan skär man degen i remsor och gör ett snitt i mitten av varje remsa.",
+            "Dra den ena snibben på remsan genom det snittet i mitten så att kakorna blir vridna.",
+            "Värm upp olja eller kokosfett i en stor kastrull.",
+            "Stek kakorna gyllene på varje sida.",
+            "Pudra med florsocker när de har svalnat."
+        ]
+    },
+    {
+        "title": "Jagodzianki - blåbärbullar",
+        "description": "Polska vetebullar fyllda med blåbär och socker glasyr på. Blåbärbullar (jagodzianki) är sommarens höjdare i Polen.",
+        "timeInMins": 45,
+        "ingredients": [
+            {
+                "ingredient": "jäst",
+                "amount": 25,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "mjölk",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "salt",
+                "amount": 1,
+                "unit": "krm"
+            },
+            {
+                "ingredient": "socker",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "kanel",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "vetemjöl",
+                "amount": 8,
+                "unit": "dl"
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 2,
+                "unit": "st"
+            },
+            {
+                "ingredient": "smör",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "blåbär",
+                "amount": 1,
+                "unit": "l" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 100,
+                "unit": "g" 
+            }
+        ], 
+        "category": [
+            "Bär"
+        ],
+        "instructions": [
+            "Smält osaltat smör och tillsätt mjölk.",
+            "Smula färska jästen med 1 dl socker i en bunke och häll över mjölken och smör.", 
+            "Tillsätt 1 ägg, mjöl, salt och kanel och arbeta degen tills den är blank och smidig.",
+            "Låt degen jäsa till dubbel storlek.",
+            "Stjälp ut degen och dela i två bitar.",
+            "Kavla dessa till två rektanglar , halv cm tjocka.t degen och dela i två bitar.",
+            "Dela de i 10×10 stora bitar.",
+            "Blanda blåbär med ca 1 dl socker.",
+            "Placera en matsked blåbär och rulla vetebrödet till en avlång bulle.",
+            "Lägg blåbärbullarna på en bakplåt klädd i bakpapper i låt de jäsa i 30 minuter.",
+            "Pensla bullarna med 1 lätt uppvispad ägg och grädda i 250ºC, cirka 10 minuter.",
+            "Blanda florsocker med vatten och pensla jagodzianki när de har svalnat."
+        ]
+    },
+    {
+        "title": "Pierniczki - saftiga polska pepparkakor med plommonsylt",
+        "description": "Recept på polska pepparkakor varierar kraftigt. Dessa pepparkakor är mjuka och saftiga, doftar helt underbar och kan göras väldigt fort.",
+        "timeInMins": 45,
+        "ingredients": [
+            {
+                "ingredient": "smör",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "brun farin",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "honung",
+                "amount": 3,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "malen ingefära",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "malen kryddnejlika",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "kanel",
+                "amount": 1,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "plommonsylt",
+                "amount": 5,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "bikarbonat",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "nescafe",
+                "amount": 3,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "mjölk",
+                "amount": 1,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 1,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "mjöl",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "vispgrädde",
+                "amount": 1,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "choklad",
+                "amount": 100,
+                "unit": "g" 
+            }
+        ], 
+        "category": [
+            "Grädde"
+        ],
+        "instructions": [
+            "Smält smöret.",
+            "Häll i socker, honung, kryddor och 2 msk plomonsylt.", 
+            "Rör hela tiden i 2 minuter tills allt är löst och jämt smet.",
+            "Ta av från värme och tillsätt bikarbonat, 2 tsk kaffe, mjölk och ägg under energisk omrörning.",
+            "Degen kommer bubbla lite och så ska den vara.",
+            "Till sist sikta i mjölet och blanda väl med sked.",
+            "Ta en bakform 20 x 30 cm lägg, smöra och bröa och häll i pepparkakssmeten.",
+            "Baka pepparkakan i 160ºC, cirka  50 minuter.Kolla med träpinne om kakan är torr inuti.",
+            "Låt pepparkakan svalna och dela den sedan i mitten.",
+            "Bredd på plommonsylt på den ena biten och täck med andra.",
+            "Lås choklad, grädde och 1 tsk kaffe i ett vattenbad och bredd ganache över kakan.",
+            "När den har svalnat, dela i ca 12 fyrkantiga bakelse."
+        ]
+    },
+    {
+        "title": "Piernik - Pepparkaka",
+        "description": "Den här mjuk pepparkaka har mycket smak av julens kryddor. Här används rikligt med nejlikor, ingefära och kardemumma. Brun farin socker ger pepparkakan både sötma och färg.",
+        "timeInMins": 45,
+        "ingredients": [
+            {
+                "ingredient": "smör",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "brun farin",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 2,
+                "unit": "st"
+            },
+            {
+                "ingredient": "gräddfil",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "vetemjöl",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "kanel",
+                "amount": 1,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "kryddnejlika",
+                "amount": 1,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "ingefära",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "bikarbonat",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "flosocker",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "bryggt kaffe",
+                "amount": 3,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "valnötshalvor",
+                "amount": 15,
+                "unit": "st" 
+            }
+        ], 
+        "category": [
+            "Nötter"
+        ],
+        "instructions": [
+            "Vispa smör och socker pösigt.",
+            "Tillsätt 1 ägg i taget.", 
+            "Blanda gräddfil i smeten och sedan alla torra ingredienser.",
+            "Baka pepparkakan i ugnen på 175°C, cirka 50 minuter.",
+            "Känn alltid med en träpinne om kakan är torr inuti.",
+            "TiLåt kakan svalna och gör glasyr.l",
+            "Rör florsocker och kaffe till en glasyr och pensla pepparkakan.",
+            "Dekorera med valnötter."
+        ]
+    },
+    {
+        "title": "Szarlotka - äppelkaka",
+        "description": "Polsk äppelkaka gjord på mördegsbotten. Servera gärna med vaniljglass.",
+        "timeInMins": 45,
+        "ingredients": [
+            {
+                "ingredient": "vetemjöl",
+                "amount": 300,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "strösocker",
+                "amount": 250,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vaniljsocker",
+                "amount": 2,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 1,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "smör",
+                "amount": 250,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "äggulor",
+                "amount": 3,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "äpple",
+                "amount": 1,
+                "unit": "kg"
+            },
+            {
+                "ingredient": "kanel",
+                "amount": 2,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "russin",
+                "amount": 2,
+                "unit": "dl" 
+            }
+        ], 
+        "category": [
+            "Frukt"
+        ],
+        "instructions": [
+            "Sikta i mjölet i en bunke, häll i sockret, vaniljsocker, bakpulver och rör om.",
+            "Lägg till rumstemperat smör och äggulorna.", 
+            "Blanda tills degen blir slät och fin.",
+            "Låt degen stå i kylen i ca 20 min.",
+            "Sätt ugnen på 175 grader.",
+            "Smöra en form och pudra med mjöl.",
+            "Kavla ut degen så att den blir ca 1 cm tjock.",
+            "Pricka den med gaffel, grädda i mitten av ugnen till den får en gyllenbrun färg ca 15-20 min.",
+            "Ta ut degbotten ställ åt sidan och låt svalna.",
+            "Skala äpplen till fyllning, kärna ur dem.",
+            "Riv ned dem på ett rivjärn, tjocka strimlor.",
+            "Lägg allt i en stor kastrull, häll på socker, russin och kanel.",
+            "Sjud på medelhög värme i 30 min, låt locket vara på.",
+            "Rör om då och då.",
+            "Det ska bli ett gyllenbrunt äppelmos.",
+            "Ta fram degbotten häll i äppelmoset.",
+            "Värm i kakan i ugnen ca 5-10 min."
+        ]
+    },
+    {
+        "title": "Polsk karpatka",
+        "description": "Polska karpatkakaka kallad efter bergskedjan Karpaterna som löper genom Polen, Ungern, Ukraina, Slovakien och Rumänien. Toppen och botten av kakan görs av klassisk eclairdeg och fylls med en fluffig vaniljkräm. Den här varianten fylls kakan med klassisk glasskräm gjord av snabbvispad vaniljkräm och grädde.",
+        "timeInMins": 50,
+        "ingredients": [
+            {
+                "ingredient": "vetemjöl",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "vaniljsocker",
+                "amount": 2,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 100,
+                "unit": "g"
+            },
+            {
+                "ingredient": "vatten",
+                "amount": 1,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "mjölk",
+                "amount": 7,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 3,
+                "unit": "st"
+            },
+            {
+                "ingredient": "marsan",
+                "amount": 15,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "vaniljsocker",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "grädde",
+                "amount": 3,
+                "unit": "dl"
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 4,
+                "unit": "msk"
+            }
+        ], 
+        "category": [
+            "Grädde"
+        ],
+        "instructions": [
+            "Blanda mjöl, vaniljsocker och bakpulver och  till degen i en bunke.",
+            "Smält smöret, häll vattnet, 2 dl mjölk och låt blandningen koka upp.", 
+            "Vispa ner mjölet medan det småkokar vispar du kraftigt tills degen släpper kanterna på kastrullen och blir en klump.",
+            "Ta bort från plattan och låt svalna.",
+            "Rör i ett ägg i taget och blanda kraftigt i några sekunder mellan varje ägg.",
+            "Värm ugnen till 200°.",
+            "Klä två springformar, 24 cm, med bakplåtspapper.",
+            "Fördela smeten jämnt i formarna.",
+            "Grädda två formar eller en i taget i ugn i ca 25-30 min.",
+            "Låt kallna helt, under tiden kan du förbereda fyllningen.",
+            "Blanda vaniljsåspulver med 5 dl mjölk och vaniljsocker.",
+            "Låt stelna i kylen i 10 min.",
+            "Blanda grädde och florsocker i en bunke, vispa grädden fast och fluffig.",
+            "Blanda sedan grädden med med vaniljkrämen.",
+            "Behåll en av kakbottnarna i springformen, häll över fyllningen och bred den jämnt över hela kakan.",
+            "Täck med den andra kakbotten, låt stelna i kylen i minst 30 min.",
+            "Pudra med florsocker och servera (ca 8-10 bitar)."
+        ]
+    },
+    {
+        "title": "Ptysie(petit-choux) - polska ptysie med hallonmaräng",
+        "description": "Vad är polska ptysie? Det är en efterrätt som är inget annat än läckra petit choux fyllda med hallonmaräng. Polska petit choux är inte så små som franska, de innehåller ganska mycket fyllning, lite mer som semla.",
+        "timeInMins": 50,
+        "ingredients": [
+            {
+                "ingredient": "vatten",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "salt",
+                "amount": 1,
+                "unit": "krm" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 70,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vetemjöl",
+                "amount": 90,
+                "unit": "g"
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 4,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "socker",
+                "amount": 170,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "hallon",
+                "amount": 125,
+                "unit": "g"
+            }
+        ], 
+        "category": [
+            "Frukt"
+        ],
+        "instructions": [
+            "Börja med att koka vatten med smör och lite salt.",
+            "Sikta sedan mjöl och blanda energisk tills det bildas en klump som är glansig och släpper kanterna på kastrullen.", 
+            "Låt degen svalna i 5 minuter och sedan vispa i ägg ett i taget. Sätt ugnen på 200ºC.",
+            "Spritsa degen med rosettformat fyll till cirka 6 cm stora petit choux (ca 8 stycken).",
+            "Se till att det finns tillräckligt avstånd mellan dem. De expanderar ganska mycket.",
+            "Grädda i den uppvärmda ugnen i cirka 30 minuter utan att öppna ugnen.",
+            "När petit choux är gräddade och gyllene låt dem svalna på galret.",
+            "Börja med att koka hallon med 20 g socker.",
+            "Pasera sedan hallon och stoppa tillbaka i kastrullen.",
+            "Tillsätt resten av socker alltså 140 g och koka hallonsirap tills den når 118ºC.",
+            "När temperaturen på sirapen är uppe i 100ºC börja vispa äggvitor.",
+            "När skummet är hårt vispat häll i den varma sirapen, vispa hela tiden.",
+            "Dela petit choux någorlunda i mitten som semla.",
+            "Spritsa marängen och täck med locket.",
+            "Strö på florsocker samt lite pulveriserade hallon."
+        ]
+    },
+    {
+        "title": "Makowiec - polsk vallmokaka",
+        "description": "Polsk vallmokaka heter på polska makowiec. Mak betyder vallmo och därefter kommer namnet på detta goda bakverk. Vallmokaka är kaka som man bakar främst till jul.",
+        "timeInMins": 60,
+        "ingredients": [
+            {
+                "ingredient": "smör",
+                "amount": 240,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "socker",
+                "amount": 300,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vetemjöl",
+                "amount": 180,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 2,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "salt",
+                "amount": 3,
+                "unit": "krm" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 6,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "vaniljextrakt",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "vallmo",
+                "amount": 200,
+                "unit": "g"
+            },
+            {
+                "ingredient": "äpple",
+                "amount": 2,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "lingon",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "russin",
+                "amount": 50,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "mandelmjöl",
+                "amount": 4,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "amaretto",
+                "amount": 3,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 300,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "apelsin juice",
+                "amount": 1,
+                "unit": "st"
+            },
+            {
+                "ingredient": "kanderade apelsinskal",
+                "amount": 2,
+                "unit": "msk" 
+            }
+        ], 
+        "category": [
+            "Bär",
+            "Frukt",
+            "Vallmo"
+        ],
+        "instructions": [
+            "Börja med mördeg som behöver kylas ner.",
+            "Hacka 140 g kallt smör med mjöl, 1 tsk bakpulver, 100 g socker och salt.", 
+            "När det börjar bildas smulor tillsätt 1 ägg, vaniljextrakt och arbeta allt lätt till en deg.",
+            "Överarbeta inte! Degen är lite klibbig. Plasta degen och stoppa i kylen för en timme.",
+            "Häll vallmo i en liten kastrull, tillsätt vatten som mycket så att det täcker fröna.",
+            "Koka allt i 20 minuter. Sila av vatten och mala vallmo.",
+            "Tillsätt 5 äggulor (spara äggvitor), en äggula i taget, mixa hela tiden.",
+            "Sedan tillsätt vallmo, mandelmjöl, 1 tsk bakpulver och vispa kort.",
+            "Riv äpple och blanda i vallmosmeten tillsammans med frysta lingon och russin.",
+            "Vispa äggvitor hårt och blanda försiktigt i smeten.",
+            "Ta ut mördegen från kylen.",
+            "Kavla degen mellan två bitar plastfolie och klä bakformen med den.", 
+            "För bästa resultat klä bakformen med bakpapper. Sedan fördela smeten på mördegen.",
+            "Sätt ugnen på 180ºC, utan varmluft.",
+            "Sätt kakan i den uppvärmda ugnen och baka i cirka 50 minuter.",
+            "Ta ut kaka och låt den svalna helt och hålet.",
+            "Vispa florsocker med apelsinjuice, lite i taget, beroende hur du vill ha din glasyr, tjock eller mer rinnig.",
+            "Pensla kakan med glasyren och strö på kanderade apelsinskal.",
+            "Låt glasyren torka och sedan dela kaka i rutor (ca 20 bitar).",
+            "Det går att frysa kaka."
+        ]
+    },
+    {
+        "title": "Makowiec - polsk vallmostrudel",
+        "description": "Vallmostrudel populärt kallas för makowiec på polska. Här är en variant gjord på vetedeg och inte minst god!",
+        "timeInMins": 60,
+        "ingredients": [
+            {
+                "ingredient": "mjöl",
+                "amount": 250,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "jäst",
+                "amount": 15,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "socker",
+                "amount": 230,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vaniljpulver",
+                "amount": 180,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "apelsin (juice och rivet skal)",
+                "amount": 1,
+                "unit": "st"
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 6,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 130,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "salt",
+                "amount": 1,
+                "unit": "krm" 
+            },
+            {
+                "ingredient": "vallmo",
+                "amount": 200,
+                "unit": "g"
+            },
+            {
+                "ingredient": "äpple",
+                "amount": 2,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "lingon",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "russin",
+                "amount": 50,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "mandelmjöl",
+                "amount": 4,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 1,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "amaretto",
+                "amount": 3,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 200,
+                "unit": "g" 
+            }
+        ], 
+        "category": [
+            "Bär",
+            "Frukt",
+            "Vallmo"
+        ],
+        "instructions": [
+            "Lös färska jästen i juicen. Lägg i 30 g socker, vanilipulver, 1 äggula samt mjöl och en nypa salt.",
+            "Knåda till en deg.", 
+            "Tillsätt sedan 30 g mjukt smör och knåda tills degen är elastisk.",
+            "Täck med folie och låt jäsa i 40 minuter.",
+            "Häll vallmo i en liten kastrull, tillsätt vatten som mycket så att det täcker fröna.",
+            "Koka allt i 20 minuter. Sila av vatten och mala vallmo.",
+            "Vispa mjukt 100 g smör med 200 g socker.",
+            "Tillsätt 5 äggulor (spara äggvitor), en äggula i taget, mixa hela tiden.",
+            "Sedan tillsätt vallmo, mandelmjöl, 1 tsk bakpulver och vispa kort.",
+            "Riv äpple och blanda i vallmosmeten tillsammans med frysta lingon och russin.",
+            "Vispa äggvitor hårt och blanda försiktigt i smeten.",
+            "Kavla vetedeg till en 1 cm tjock rektangel och bredd vallmofyllnigen på.", 
+            "Rulla degen till en strudel och sedan rlla i oljat bakpapper.",
+            "Låt jäsa i 20 minuter.",
+            "Baka makowiec i 175ºC varmluftsugn i cirka 40 minuter.",
+            "Ta ut strudel från ugnen.",
+            "Blanda apelcinjuice med florsocker.",
+            "Låt svalna något innan du penslar med sockerglasyret.",
+            "Strö på vallmofrön.",
+            "Låt svalna helt och hållet innan du skär kaka i (ca 15) bitar."
+        ]
+    },
+    {
+        "title": "Punchtårta med mandel - starowiedenski",
+        "description": "En god tårta med frisk smak av apelsin, aprikos och mandelmassan. En vuxen variant då innehåller den alkohol. Vill du göra tårtan barnvänlig byt ut rom till samma mängd av apelcinjuice.",
+        "timeInMins": 90,
+        "ingredients": [
+            {
+                "ingredient": "vetemjöl",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "potatismjöl",
+                "amount": 2,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "socker",
+                "amount": 3,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 8,
+                "unit": "st"
+            },
+            {
+                "ingredient": "citron",
+                "amount": 1,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "apelsiner",
+                "amount": 2,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "rom",
+                "amount": 8,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 4,
+                "unit": "dl"
+            },
+            {
+                "ingredient": "mandelmassa",
+                "amount": 200,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "aprikossylt",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "apelsinsylt",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "kakao",
+                "amount": 2,
+                "unit": "msk"
+            },
+            {
+                "ingredient": "mandelspån",
+                "amount": 50,
+                "unit": "g"
+            }
+        ], 
+        "category": [
+            "Frukt"
+        ],
+        "instructions": [
+            "Värm ugnen till 180ºC.",
+            "Smöra och bröa en tårtform om 28 cm i diameter.", 
+            "Blanda vetemjöl, bakpulver och potatismjöl.",
+            "Vispa äggvitor till ett hårt skum, tillsätt socker (lite i taget).",
+            "När äggvitor är ordentligt vispade - tillsätt äggulor, en i taget.",
+            "Vispa hela tiden på max hastigheten.",
+            "Till sist sikta mjölblandningen.",
+            "Sänk hastigheten och fortsätt vispa.",
+            "Baka tårtbotten cirka 40-45 min.",
+            "När botten har kallnat dela den i 3 skivor.",
+            "Lägg första skiva på en serveringsfat och droppa över 1/3 del av punschblandingen.sp",
+            "Kavla mandelmassan på florsocker.", 
+            "Det borde gå åt ungefär halva mängd av florsocker.",
+            "Klipp en cirkeln ur mandelmassan och spara den till tårttoppen.",
+            "Resten av mandelmassan rör med florsocker och rom.",
+            "När du har blandat färdigt socker och rom  häll lite till mandelmassan.",
+            "Den ska vara krämig och lätt att fördela på tårtbotten.",
+            "Spara  3- 4 msk  av sockertoppig till dekorationen.",
+            "Täck med nästa tårtskiva, droppa över punschblandningen och fördela fint apelsinsylt.",
+            "Fördela också riven mandel-rom blandningen.",
+            "Lägg på tredje tårtskiva, droppa över med resterande punsch.",
+            "VisLägg aprikossylt på toppen och runt om tårtan.p",
+            "Dags att toppa med mandelcirkeln.",
+            "Bre med frostig.",
+            "De sparade 3-4 msk toppig blanda med kakao och spritsa fint på toppen som på bilden.",
+            "Dekorera tårtsidorna med rostat mandelspån (16-20 bitar)."
+        ]
+    },
+    {
+        "title": "Makowiec - Vallmotårta med hallon",
+        "description": "Vallmotårta med hallon är en sommar version av vallmofrökaka - polsk makowiec. Vallmo och hallon är en mycket lyckad kombination.",
+        "timeInMins": 90,
+        "ingredients": [
+            {
+                "ingredient": "vallmofrö",
+                "amount": 200,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 150,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 250,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vaniljsocker",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 5,
+                "unit": "st"
+            },
+            {
+                "ingredient": "hallon",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "mannagryn",
+                "amount": 3,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 1,
+                "unit": "tsk" 
+            }
+        ], 
+        "category": [
+            "Frukt",
+            "Vallmo"
+        ],
+        "instructions": [
+            "Koka vallmofröna i vattnet cirka 20 minuter.",
+            "Sila av och mal i köttkvarn. Vispa smör och florsocker samt vaniljsocker.", 
+            "Tillsätt en äggula i taget och vispa hela tiden.",
+            "Nu är det dags att tillsätta vallmo, mannagryn och bakpulver.",
+            "Vispa hård äggvitor och blanda försiktigt i smeten.",
+            "Baka vallmokaka i 160ºC varmlftsugn i 45-50 minuter.",
+            "Ta ut från ugnen och låt svalna helt.",
+            "Bredd hallonsylten på vallmokaka.",
+            "Dekorera med hallon.",
+            "Ställ vallmotårta i kylen innan du skär den i (ca 12-14) bitar."
+        ]
+    },
+    {
+        "title": "Sernik-ostkaka",
+        "description": "Polsk sernik - cheesecake är absolut favorit kaka för många. En god, krämig cheesecake ska vara söt och syrligt på samma gång. Det kan man lätt uppnå att tillsätta yoghurt i ostsmeten. Annars kan man tillföra syra i form av någon juice lime eller citron, som då fungerar även som naturlig arom i kaka.",
+        "timeInMins": 90,
+        "ingredients": [
+            {
+                "ingredient": "vetemjöl",
+                "amount": 4,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "strösocker",
+                "amount": 1,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "ägg",
+                "amount": 2,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 100,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "vaniljsocker",
+                "amount": 2,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "bakpulver",
+                "amount": 2,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "kvarg",
+                "amount": 6,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "vaniljsåspulver",
+                "amount": 2,
+                "unit": "msk" 
+            },
+            {
+                "ingredient": "citron",
+                "amount": 1,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "russin",
+                "amount": 2,
+                "unit": "dl" 
+            }
+        ], 
+        "category": [
+            "Bär",
+            "Ost"
+        ],
+        "instructions": [
+            "Blanda ihop mjöl, socker, ägg, rumstempererat smör, vaniljsocker och bakpulver till en slät deg.",
+            "Kavla ut degen och klä en hög kakform med den.", 
+            "Sätt ugnen på 200 grader och grädda i tio minuter.",
+            "Blanda ingredienserna till fyllningen.",
+            "Ta ut kakformen ur ugnen, häll i fyllningen och sätt in i ugnen igen.",
+            "Fortsätt grädda i 25 minuter. Ta ut ur ugnen och låt kakan svalna.",
+            "Ställ sedan in den i kylen där den får stå i ett par timmar innan du serverar."
+        ]
+    },
+    {
+        "title": "Pascha",
+        "description": "Pascha är en polsk kaka som oftast görs vid påsk. Detta är en avancerad rätt som kräver en del förberedelse. Resultatet blir en utsökt god, len och smarrig kaka!",
+        "timeInMins": 90,
+        "ingredients": [
+            {
+                "ingredient": "filmjölk",
+                "amount": 1,
+                "unit": "l" 
+            },
+            {
+                "ingredient": "smör",
+                "amount": 200,
+                "unit": "g" 
+            },
+            {
+                "ingredient": "florsocker",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "vaniljsocker",
+                "amount": 1,
+                "unit": "tsk" 
+            },
+            {
+                "ingredient": "vaniljsocker",
+                "amount": 1,
+                "unit": "tsk"
+            },
+            {
+                "ingredient": "äggulor",
+                "amount": 3,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "vispgrädde",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "russin",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "hasselnötter",
+                "amount": 2,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "citron",
+                "amount": 1,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "gelatinblad",
+                "amount": 8,
+                "unit": "st" 
+            },
+            {
+                "ingredient": "vatten",
+                "amount": 1,
+                "unit": "dl" 
+            },
+            {
+                "ingredient": "svartvinbärsgelé",
+                "amount": 2,
+                "unit": "dl" 
+            }
+        ], 
+        "category": [
+            "Bär",
+            "Nötter"
+        ],
+        "instructions": [
+            "Sila filmjölken genom ett kaffefilter i ett dygn.",
+            "Häll bort vasslan.", 
+            "Rör samman smör, flor- och vaniljsocker till en slät smet.",
+            "Tillsätt äggulor och rör i filmjölken.",
+            "Tillsätt grädde, russin, hasselnötter och citronskal.",
+            "Lägg gelatinbladen i kallt vatten i ca 5 minuter.",
+            "Ta upp bladen ur vattnet och lägg dem i en kastrull med vattnet.", 
+            "Värm försiktigt tills gelatinet smält. Låt svalna.",
+            "Blanda gelatinet med ostkakssmeten och häll i en form med löstagbar botten, ca 22 cm i diameter (för 10 port).",
+            "Låt stå i kylen tills den stelnat, minst 2 timmar.",
+            "Smält gelén i en kastrull, låt svalna något.",
+            "Häll gelén försiktigt över kakan. Ställ kakan i kylen och låt gelén stelna.", 
+            "Tips! Om man vill ha en magrare version ersätter man grädden med standardmjölk och tar 2 extra gelatinblad (ca 10 bitar)."
+        ]
+    }
+]
