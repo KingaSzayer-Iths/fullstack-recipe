@@ -24,7 +24,7 @@ const RecipeCard = ({ recipe }: any ) => {
 
           calculateRating(recipe.ratings)  
 
-      }, [])
+      }, [recipe.ratings])
 
     
     return (<article>

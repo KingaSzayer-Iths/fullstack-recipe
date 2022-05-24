@@ -3,7 +3,6 @@ import React from 'react'
 import { useEffect, useState } from 'react';
 import { useParams } from "react-router-dom"
 import Search from './search'
-import { Link } from "react-router-dom"
 import RecipeCard from './recipecard'
 
 const Category = () => {
