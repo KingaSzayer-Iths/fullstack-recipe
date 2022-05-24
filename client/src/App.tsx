@@ -33,7 +33,7 @@ return (<>
       <h2>Kategori</h2>
       {categories.map((category: any) =>
         <React.Fragment key={category}>
-          <Link to={`/categories/${category}/recipes`}>{category}</Link> 
+          <Link to={`/categories/${category[0]}/recipes`}>{category[0]} ({category[1]})</Link> 
         </React.Fragment>
       )}
     </nav>

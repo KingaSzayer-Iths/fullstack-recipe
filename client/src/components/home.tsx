@@ -30,7 +30,6 @@ const Home = () => {
                 {recipe.ingredients.map((ingredient: any) => <li key={ingredient._id}>{ingredient.ingredient}</li>)}
             </ul> */}
                 <RecipeCard recipe={recipe} />
-                <Link to={`/recipes/${recipe._id}`}>Öppna recept</Link>
             </React.Fragment>)}
         </>
     )

@@ -31,7 +31,6 @@ const Category = () => {
               {categoryRecipes.map((categoryRecipe: any) =>
               <React.Fragment key={categoryRecipe._id}>
               <RecipeCard recipe={categoryRecipe} />
-              <Link to={`/recipes/${categoryRecipe._id}`}>Öppna recept</Link>
               </React.Fragment>)}
           </>
       )

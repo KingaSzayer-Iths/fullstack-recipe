@@ -52,10 +52,11 @@ const Recipe = () => {
         <div>
         <p>{recipe.description}</p>
 
-                <div>ratings</div>
-                <p>{recipe.ingredients && recipe.ingredients.length} INGREDIENSER | {recipe.timeInMins} MINUTER</p>
+                
             
-            <img src="" alt="" />
+            <img src={recipe.imageUrl} alt="" />
+
+            <p>{recipe.ingredients && recipe.ingredients.length} INGREDIENSER | {recipe.timeInMins} MINUTER</p>
         </div>
 
             <p>Ingredienser</p>

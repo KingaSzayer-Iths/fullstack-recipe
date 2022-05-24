@@ -28,9 +28,17 @@ export const getAllCategories = async () => {
 
     const categories = all.map(cat => cat.category).flat()
 
-    const unique = [... new Set(categories)]
+    // const occurrences = categories.reduce(function (acc, curr) {
+    //     return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
+    //   }, {})
 
-    return unique
+    const map = categories.reduce((acc, e) => acc.set(e, (acc.get(e) || 0) + 1), new Map());
+
+    // const unique = [... new Set(categories)]
+console.log(map);
+console.log([... new Set(map)]);
+
+    return [... new Set(map)]
 }
 
 export const getRecipesByCategoryName = async (categoryName: String, search: any) => {

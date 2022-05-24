@@ -10,7 +10,7 @@ const Search = ({setRecipes, url} : any) => {
         setRecipes(recipes)
     }
 
-    return <input type="text" onChange={(event) => search(event.target.value)}/>
+    return <input type="text" placeholder="Sök" onChange={(event) => search(event.target.value)}/>
 }
 
 export default Search
