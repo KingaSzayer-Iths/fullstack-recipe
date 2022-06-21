@@ -1,3 +1,30 @@
+import styled from "styled-components"
+
+
+
+interface SearchTypeStyle {
+
+}
+
+const StyledSearch = styled.input<SearchTypeStyle>`
+
+        box-sizing: border-box;
+        background-color: #eaf7ea;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 5px 33px;
+        gap: 10px;
+
+        position: relative;
+        width: 280px;
+        height: 30px;
+
+        border: 1px solid #000000;
+        border-radius: 15px;
+
+`
+
 
 const Search = ({setRecipes, url} : any) => {
 
@@ -10,7 +37,7 @@ const Search = ({setRecipes, url} : any) => {
         setRecipes(recipes)
     }
 
-    return <input type="text" placeholder="Sök" onChange={(event) => search(event.target.value)}/>
+    return <StyledSearch type="text" placeholder="Sök" onChange={(event) => search(event.target.value)}/>
 }
 
 export default Search

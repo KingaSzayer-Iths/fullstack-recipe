@@ -6,7 +6,14 @@ interface MainheaderTypeStyle {
 
 const StyledMainheader = styled.header<MainheaderTypeStyle>`
     /* background-color: rgb(225, 251, 243); */
-    background-image: linear-gradient(to bottom right, pink,rgb(225, 251, 243));
+    /* background-image: linear-gradient(to bottom right, pink,rgb(225, 251, 243)); */
+    background-image: linear-gradient(to bottom right, #fa3656,rgb(225, 251, 243));
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 0px;
+        /* gap: 5px; */
+
 `
 
 const Mainheader = () =>

@@ -1,7 +1,17 @@
-
+import styled from "styled-components"
 import { useParams } from "react-router-dom"
 import { useEffect, useState } from 'react'
 import Rating from './rating'
+
+
+interface RecipeTypeStyle {
+
+}
+
+const StyledRecipe = styled.div<RecipeTypeStyle>`
+    /* background-color: rgb(225, 251, 243); */
+    background-image: linear-gradient(to bottom right, pink,rgb(225, 251, 243));
+`
 
 const Recipe = () => {
 
@@ -43,7 +53,7 @@ const Recipe = () => {
 
       
   
-    return <>
+    return <StyledRecipe>
     <header>
         <h2>{recipe.title}</h2>
     </header>
@@ -73,9 +83,7 @@ const Recipe = () => {
         <Rating rating={average} recipe={recipe} />
 
     </footer>
-
-
-    </>
+    </StyledRecipe>
 }
 
 export default Recipe

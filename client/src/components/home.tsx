@@ -21,7 +21,7 @@ const Home = () => {
 
     return (
         <>
-            <Search setRecipes={setRecipes} url='http://localhost:4000/recipes/' />
+            <Search setRecipes={setRecipes} url={`${process.env.REACT_APP_API_BASE_URL}/recipes`} />
             {recipes.map((recipe: any) =>
             <React.Fragment key={recipe._id}>
             {/* <h2>{recipe.title}</h2>
