@@ -7,6 +7,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Home from './components/home'
 import Category from './components/category'
 import Recipe from './components/recipe'
+import Contact from './components/contact'
+import Collectletter from './components/collectletter';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -16,6 +18,8 @@ root.render(
     <Routes>
       <Route path="/" element={<App />}>
         <Route path="/" element={<Home />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/collectletter" element={<Collectletter />} />
         <Route path="/categories/:categoryName/recipes" element={<Category />} />
         <Route path="/recipes/:recipeId" element={<Recipe />} />
       </Route>

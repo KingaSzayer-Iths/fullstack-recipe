@@ -4,7 +4,7 @@ const Rating = ({rating,recipe}:any) => {
 
     const rate = async (rate : number) => {
 
-        await fetch(`${process.env.REACT_APP_API_BASE_URL}/recipes/${recipe._id}/ratings`, {
+        await fetch(`http://localhost:4000/recipes/${recipe._id}/ratings`, {
             method: 'post',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify([rate])

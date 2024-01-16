@@ -17,7 +17,8 @@ const App = () => {
   useEffect(() => {
 
     const loadCategories = async () => {
-      const res = await fetch(`${process.env.REACT_APP_API_BASE_URL}/categories`);
+      // const res = await fetch(`${process.env.REACT_APP_API_BASE_URL}/categories`);
+      const res = await fetch(`http://localhost:4000/categories`);
       const categories = await res.json();
       
       setCategories(categories);
@@ -29,7 +30,12 @@ const App = () => {
 return (<>
   <Mainheader/>
   <div className='main'>
+  
     <nav className='categories'>
+    
+    <Link to={`/`}>Hem</Link>
+    <Link to={`/contact`}>Feedback</Link>
+    <Link to={`/collectletter`}>Prenumerera</Link>
       <h2>Kategori</h2>
       {categories.map((category: any) =>
         <React.Fragment key={category}>

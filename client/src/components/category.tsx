@@ -14,7 +14,8 @@ const Category = () => {
     useEffect(() => {
   
         const loadCategoryRecipes = async () => {
-          const res = await fetch(`${process.env.REACT_APP_API_BASE_URL}/categories/${params.categoryName}/recipes`);
+          //const res = await fetch(`${process.env.REACT_APP_API_BASE_URL}/categories/${params.categoryName}/recipes`);
+          const res = await fetch(`http://localhost:4000/categories/${params.categoryName}/recipes`);
           const categoryRecipes = await res.json();
           
           setCategoryRecipes(categoryRecipes);
@@ -26,7 +27,7 @@ const Category = () => {
   
       return (
           <>
-              <Search setRecipes={setCategoryRecipes} url={`${process.env.REACT_APP_API_BASE_URL}/categories/${params.categoryName}/recipes`} />
+              <Search setRecipes={setCategoryRecipes} url={`http://localhost:4000/categories/${params.categoryName}/recipes`} />
               {categoryRecipes.map((categoryRecipe: any) =>
               <React.Fragment key={categoryRecipe._id}>
               <RecipeCard recipe={categoryRecipe} />
